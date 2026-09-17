@@ -1,0 +1,22 @@
+{
+  "name": "RU-direct (auto)",
+
+  "remove_block_sites": ["geosite:torrent"],
+
+  "add_direct_sites": [
+    "domain:ru", "domain:su", "domain:xn--p1ai", "domain:xn--80adxhks", "domain:moscow", "domain:tatar",
+    "domain:yandex.net", "domain:yandex.com", "domain:yastatic.net", "domain:yandexcloud.net", "domain:yandex.cloud",
+    "domain:vk.com", "domain:vk.me", "domain:userapi.com", "domain:vkuser.net", "domain:vk-cdn.net", "domain:mycdn.me",
+    "domain:sberbank.com", "domain:wbstatic.net", "domain:avito.st", "domain:2gis.com", "domain:1cfresh.com",
+    "domain:okko.tv", "domain:more.tv", "domain:premier.one"
+  ],
+  "remove_direct_sites": [],
+
+  "add_proxy_sites": [],
+  "remove_proxy_sites": [],
+
+  "add_block_sites": [],
+
+  "add_direct_ip": [],
+  "add_proxy_ip": []
+}
