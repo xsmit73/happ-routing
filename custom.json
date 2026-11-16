@@ -8,7 +8,7 @@
     "domain:yandex.net", "domain:yandex.com", "domain:yastatic.net", "domain:yandexcloud.net", "domain:yandex.cloud",
     "domain:vk.com", "domain:vk.me", "domain:userapi.com", "domain:vkuser.net", "domain:vk-cdn.net", "domain:mycdn.me",
     "domain:sberbank.com", "domain:wbstatic.net", "domain:avito.st", "domain:2gis.com", "domain:1cfresh.com",
-    "domain:okko.tv", "domain:more.tv", "domain:premier.one"
+    "domain:okko.tv", "domain:more.tv", "domain:premier.one", "domain:yimg.jp", "domain:yahoo.co.jp", "domain:yahooapis.jp"
   ],
   "remove_direct_sites": [],
 
