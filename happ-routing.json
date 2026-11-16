@@ -12,7 +12,7 @@
   "DomesticDNSIP": "77.88.8.8",
   "Geoipurl": "https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geoip@202611151046/release/geoip.dat",
   "Geositeurl": "https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@202610120948/release/geosite.dat",
-  "LastUpdated": "1794769060",
+  "LastUpdated": "1794801649",
   "DnsHosts": {
     "lkfl2.nalog.ru": "213.24.64.175",
     "lknpd.nalog.ru": "213.24.64.181"
@@ -55,7 +55,10 @@
     "domain:1cfresh.com",
     "domain:okko.tv",
     "domain:more.tv",
-    "domain:premier.one"
+    "domain:premier.one",
+    "domain:yimg.jp",
+    "domain:yahoo.co.jp",
+    "domain:yahooapis.jp"
   ],
   "DirectIp": [
     "geoip:private",
